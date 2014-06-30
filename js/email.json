@@ -1,0 +1,27 @@
+[
+	{
+		"fname":"shuaib1",
+		"lname":"anwar",
+		"email":"sanwar2@sapient.com",
+		"clinic":""
+	},
+	{
+		"fname":"shuaib2",
+		"lname":"anwar",
+		"email":"sanwar2@sapient.com",
+		"clinic":""
+	},
+	{
+		"fname":"shuaib3",
+		"lname":"anwar",
+		"email":"sanwar2@sapient.com",
+		"clinic":"Fortis Hospital"
+	},
+	{
+		"fname":"shuaib4",
+		"lname":"anwar",
+		"email":"sanwar2@sapient.com",
+		"clinic":"Fortis Hospitals"
+	}
+]
+	
